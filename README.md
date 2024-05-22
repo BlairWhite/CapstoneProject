@@ -1,7 +1,7 @@
 # CapstoneProject
 UCB AI/ML Capstone Project
 
-My project displays the 
+The objective of my project was to showcase the diverse skill set required of an eCommerce data engineer.The project encompassed several key components, including customer churn analysis, RFM (Recency, Frequency, Monetary Value) analysis, recommender system development, and AB testing. By conducting customer churn analysis, I identified factors influencing customer attrition and implemented targeted retention strategies to minimize churn rates. Additionally, I leveraged RFM analysis to segment customers based on their purchasing behavior, enabling personalized marketing and improved customer engagement. Furthermore, I developed a recommender system that utilized user data to provide tailored product recommendations, enhancing the shopping experience and driving sales. Finally, I conducted AB testing to evaluate the effectiveness of different strategies and optimize decision-making processes. Through this comprehensive project, I demonstrated my proficiency in leveraging data-driven insights to drive business growth and enhance customer satisfaction in the ecommerce industry.
 
 Customer Churn Analysis:
   I analyzed the Ecommerce Customer Churn Analysis and Prediction dataset found here: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
